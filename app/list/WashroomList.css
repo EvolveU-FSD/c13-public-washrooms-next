@@ -1,0 +1,25 @@
+
+h4 {
+    margin: 0;
+}
+
+.washroom-selected {
+    margin: 1em;
+    border: 1px solid black;
+}
+
+.washroom-header {
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25em;
+    align-items: center;
+
+    text-align: center;
+}
+
+.washroom-detail {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
